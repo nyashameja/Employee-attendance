@@ -1,0 +1,13 @@
+C:\Users\Nyasha\source\repos\multilogin\multilogin\obj\Debug\multilogin.csprojAssemblyReference.cache
+C:\Users\Nyasha\source\repos\multilogin\multilogin\obj\Debug\multilogin.Form1.resources
+C:\Users\Nyasha\source\repos\multilogin\multilogin\obj\Debug\multilogin.Properties.Resources.resources
+C:\Users\Nyasha\source\repos\multilogin\multilogin\obj\Debug\multilogin.csproj.GenerateResource.cache
+C:\Users\Nyasha\source\repos\multilogin\multilogin\obj\Debug\multilogin.csproj.CoreCompileInputs.cache
+C:\Users\Nyasha\source\repos\multilogin\multilogin\bin\Debug\multilogin.exe.config
+C:\Users\Nyasha\source\repos\multilogin\multilogin\bin\Debug\multilogin.exe
+C:\Users\Nyasha\source\repos\multilogin\multilogin\bin\Debug\multilogin.pdb
+C:\Users\Nyasha\source\repos\multilogin\multilogin\obj\Debug\multilogin.exe
+C:\Users\Nyasha\source\repos\multilogin\multilogin\obj\Debug\multilogin.pdb
+C:\Users\Nyasha\source\repos\multilogin\multilogin\obj\Debug\multilogin.Form2.resources
+C:\Users\Nyasha\source\repos\multilogin\multilogin\obj\Debug\multilogin.Form3.resources
+C:\Users\Nyasha\source\repos\multilogin\multilogin\obj\Debug\multilogin.Form4.resources
